@@ -1,3 +1,3 @@
 # SERVER-PHP-SCRIPTS
 
-1) DB TEST SCRIPT
+1) DB TEST SCRIPT [Mysql and Mysqli]
